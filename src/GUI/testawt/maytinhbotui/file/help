@@ -1,0 +1,29 @@
+1. CHỨC NĂNG
+    Máy tính gồm có 3 giao diện chính tương đương với 3 mảng đó là:
+    - Basic: Chế độ bình thường
+    - Advanced: Chế độ nâng cao
+    - Program: Chế độ dành cho lập trình viên
+    
+2. CÁCH SỬ DỤNG CƠ BẢN
+    - Trong mỗi chế độ có các nút để nhập biểu thức hoặc bạn cũng có thể nhập biểu thức bằng tay
+    - Sau khi nhập xong bạn ấn bằng để xem kết quả, nếu biểu thức sai thì sẽ có thông báo Math error!
+    - Riêng trong chế độ Advanced có các biến vA, vB, ... để lưu lại giá trị tính toán, sử dụng phím STO để lưu kết quả vào các biến đó
+    - Với chế độ Program một số phím sẽ không thể sử dụng được (nếu dùng sẽ thông báo Math error!) tùy vào hệ cơ số bạn dùng là hệ nào (ví dụ trong hệ 10 thì không dùng được các số A, B, ...)
+    
+3. CÁC TỔ HỢP PHÍM THAY THẾ
+    Phím	Khi ấn nút	Khi gõ tay
+    -----------------------------------------------------
+    √	√	sqrt
+    ⁿ√	3ⁿ√81	3sqrt81
+    ²	²	^2
+    π	π	pi
+    nCr	ℂ	nCr
+    nPr	ℙ	nPr
+    arsin	arcsin	arcsin
+    STO	sto	sto
+    ≪	≪	<<
+    ≫	≫	>>
+    And	∧	And
+    Or	∨	Or
+    Xor	⊻	Xor
+    Not	¬	Not
